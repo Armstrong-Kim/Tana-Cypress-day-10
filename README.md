@@ -1,4 +1,4 @@
-# Task 4: Cypress + Cucumber framework
+# Day 10: Cypress + Cucumber project
 
 ## Repository Summary
 This repository contains automated tests for the login, shopping cart, and checkout functionalities of the website https://www.saucedemo.com/. The automated tests are implemented using Cypress and Cucumber.
