@@ -43,7 +43,7 @@ To run the tests, use the following commands:
     ```bash
     npm run cypress:open
 	    OR
-./node_modules/.bin/cypress open
+    ./node_modules/.bin/cypress open
 
     ```
 
